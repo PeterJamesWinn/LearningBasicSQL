@@ -1,0 +1,2 @@
+"substring('This is a piece of extemely long varchar data', 17,25)"
+"of extemely long varchar "

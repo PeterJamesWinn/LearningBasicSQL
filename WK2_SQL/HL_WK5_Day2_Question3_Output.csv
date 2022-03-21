@@ -1,0 +1,9 @@
+address,address2,district,postal_code,city,address,address2,district,postal_code
+"587 Benguela Manor",,Illinois,91590,Aurora,"43 Vilnius Manor",,Colorado,79814
+"43 Vilnius Manor",,Colorado,79814,Aurora,"587 Benguela Manor",,Illinois,91590
+"47 MySakila Drive",NULL,Alberta,,Lethbridge,"23 Workhaven Lane",NULL,Alberta,
+"23 Workhaven Lane",NULL,Alberta,,Lethbridge,"47 MySakila Drive",NULL,Alberta,
+"1497 Yuzhou Drive",,England,3433,London,"548 Uruapan Street",,Ontario,35653
+"548 Uruapan Street",,Ontario,35653,London,"1497 Yuzhou Drive",,England,3433
+"28 MySQL Boulevard",NULL,QLD,,Woodridge,"1411 Lillydale Drive",NULL,QLD,
+"1411 Lillydale Drive",NULL,QLD,,Woodridge,"28 MySQL Boulevard",NULL,QLD,
